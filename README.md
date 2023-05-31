@@ -23,17 +23,25 @@ For a transparent usage:
 
 ## Direct import sample
 
-`import { TfiAgenda } from "https://deno.land/x/react_icons_tfi@1.0.1/mod.ts"`
+```ts
+import { TfiAgenda } from "https://deno.land/x/react_icons_tfi@1.0.1/mod.ts"
+```
 
 ## import_map import sample
 
-`import { TfiAgenda } from "react-icons/tfi"`
+```ts
+import { TfiAgenda } from "react-icons/tfi"
+```
 
 ## minimal import
 
-`import { TfiAgenda } from "react-icons/tfi/TfiAgenda.ts"`
+```ts
+import { TfiAgenda } from "react-icons/tfi/TfiAgenda.ts"
+```
 
-## minimal import default
+## minimal import using default export
 
-`import TfiAgenda from "react-icons/tfi/TfiAgenda.ts"`
+```ts
+import TfiAgenda from "react-icons/tfi/TfiAgenda.ts"
+```
 
