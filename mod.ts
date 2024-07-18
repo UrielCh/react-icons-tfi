@@ -44,7 +44,7 @@
  * or using default export
  * 
  * ```ts
- * import TfiAgenda from "react-icons/tfi/TfiAgenda.ts"
+ * import TfiAgenda from "react-icons/tfi/TfiAgenda"
  * ```
  * @module
  * 
